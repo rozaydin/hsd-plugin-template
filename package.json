@@ -1,6 +1,6 @@
 {
   "name": "hsd-plugin-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "hsd wallet extension plugin",
   "main": "lib/index.js",
   "scripts": {
